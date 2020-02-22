@@ -44,7 +44,16 @@ Body {
 }
 
 a{
-    margin-right: 50px;
+    <--margin-right: 50px;
     color: white;
     font-size: 20px;
+    <--text-decoration: none;
+}
+#ul {
+    list-style-type: none;
+    
+}
+#li {
+    display: inline;
+    margin-right: 15px;
 }
